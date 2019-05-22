@@ -1,0 +1,6 @@
+conda env create -n AI4TND_T2_P5 --file requirements2.txt
+conda activate AI4TND_T2_P5
+conda install -c conda-forge alphalens==0.3.2
+pip install ratelimit==2.2.0
+pip install lxml
+
